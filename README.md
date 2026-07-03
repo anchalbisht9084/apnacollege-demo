@@ -11,7 +11,7 @@ This is my first portfolio website created using HTML.
 - Contact Section
 
 ## Technologies Used
-- HTML5
+- HTML
 
 ## Future Improvements
 - Add CSS
